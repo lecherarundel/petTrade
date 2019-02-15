@@ -1,3 +1,5 @@
+
+@import '../lib/weui.wxss';
 /* post.wxss */
 .textInput {
    height:150rpx;
@@ -48,7 +50,7 @@
     flex-direction: column;
 }
 .title_image {
-  margin:  0rpx;
+  margin: auto 0rpx;
   border: 1rpx solid #d3d3d3;
 }
 .title_image image {

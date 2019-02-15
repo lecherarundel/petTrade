@@ -1,6 +1,6 @@
 {
   "pages":[
-    "pages/post/post",
+    "pages/upload_img_demo/index",
     "pages/list/list",
     
     "pages/mine/mine",
@@ -27,7 +27,7 @@
     "borderStyle": "black",
     "list":[
       {
-        "pagePath": "pages/post/post",
+        "pagePath": "pages/upload_img_demo/index",
         "iconPath": "images/icons/add.png",
         "selectedIconPath": "images/icons/mineHL.png",
         "text": "发布"
